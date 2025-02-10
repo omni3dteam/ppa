@@ -1,0 +1,11 @@
+Package: owc
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./owc_1.0-1_arm64.deb
+Size: 25047902
+MD5sum: b5770092065fe8ad3ff3f11e4272fd9e
+SHA1: e1affb7625b29fd58c4c68b3d6284e2802db9ac3
+SHA256: 92b9a3190850b8f8063d2c94d08062c99a3af4608a743b2bb1af81dd3ba91597
+Description: Web control interface for omni3d printers
+

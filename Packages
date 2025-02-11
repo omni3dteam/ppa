@@ -9,6 +9,17 @@ SHA1: 2de57c22dc30935f4e73f0cad5191886d717338b
 SHA256: 7e155bb77510ce19fbd24ca434d26c7bf86d1d6d8ebc3bca7f3f0dbb3023b7c7
 Description: Python library used to create node-style programs for OmniPro
 
+Package: omni3d-rfid-middleware
+Version: 1.1
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./rfid_middleware_1.2-1_arm64.deb
+Size: 12775038
+MD5sum: 9cd45290c895010a2eeb24edf39b226b
+SHA1: 24d4261eaf6f8ecb816e0bfdb73f21da1f864773
+SHA256: 7ce42a287cffb608998748fe65f105f5ff195701bee71125f8553d0d7cd40e2c
+Description: A program to interface rfid reader to 3d printer.
+
 Package: omni3d-timelapse
 Version: 1.1
 Architecture: arm64
@@ -52,15 +63,4 @@ MD5sum: b5770092065fe8ad3ff3f11e4272fd9e
 SHA1: e1affb7625b29fd58c4c68b3d6284e2802db9ac3
 SHA256: 92b9a3190850b8f8063d2c94d08062c99a3af4608a743b2bb1af81dd3ba91597
 Description: Web control interface for omni3d printers
-
-Package: rfid-middleware
-Version: 1.0
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./rfid_middleware_1.2-1_arm64.deb
-Size: 11752376
-MD5sum: f6aaa8545305d740df57ac41bcebf663
-SHA1: fdacabd9bc30a74ceb8454b74561219a8cca5e68
-SHA256: 110341cefac77c6683ba75dac92f1b37f1f93028dcd41e085c3797929d869122
-Description: A program to interface rfid reader to 3d printer.
 

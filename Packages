@@ -1,3 +1,14 @@
+Package: OmniPROconfig
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omnipro_cfg_1.5-1_arm.deb
+Size: 82282
+MD5sum: 55e7601580a4f2d1e36e40e2f0ae87e8
+SHA1: 5fe3dfb0013ae1d7795c7b5a568aabec1d9d278c
+SHA256: 481fa4109c14766515c692cb89bab531176f51df88970eac008662a0b145ed79
+Description: OmniPRO configuration for Duet3MH6XD
+
 Package: owc
 Version: 1.0
 Architecture: arm64

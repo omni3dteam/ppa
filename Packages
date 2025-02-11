@@ -1,23 +1,12 @@
-Package: omni3d-omnode
-Version: 1.1
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omnode_1.0-1_arm64.deb
-Size: 14486
-MD5sum: d5b7352bc9a07a3adcbb8a144c9a3f51
-SHA1: 2de57c22dc30935f4e73f0cad5191886d717338b
-SHA256: 7e155bb77510ce19fbd24ca434d26c7bf86d1d6d8ebc3bca7f3f0dbb3023b7c7
-Description: Python library used to create node-style programs for OmniPro
-
 Package: omni3d-rfid-middleware
 Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./rfid_middleware_1.1-1_arm64.deb
-Size: 32152260
-MD5sum: 1ff920ac42d31f520c9b1f756d6034b7
-SHA1: 608658b2a76923b85d4a50088de1d1139108c184
-SHA256: 720882c98d7b2aed15ee7b2685f1bbb05befd3ef84e7435462efb69d6e79c8f4
+Size: 32151864
+MD5sum: 7b31d61e64152444f5aec5cb6ed16ece
+SHA1: cc82542f228e5fc6018252544a2efbaf23389bec
+SHA256: bdadf2b77d583289a133873b28f986a676496e7035e07596cdd46d16fd23896e
 Description: A program to interface rfid reader to 3d printer.
 
 Package: omni3d-timelapse
@@ -30,37 +19,4 @@ MD5sum: 0146404a43f1933c51873cc764263814
 SHA1: 6c4542e5ce68f3e4687af7c4f628ed4f69cf05ea
 SHA256: 5b5ca944db0e7b5e5f44d95443c72c4b15103f846bf86b88690cbd9bc1d6b495
 Description: A program to automatically create timelapse videos of print jobs
-
-Package: omniPRO-config
-Version: 1.1
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omnipro_cfg_1.5-1_arm.deb
-Size: 82274
-MD5sum: 562cbe46dd822666923d22eb4c96a6ad
-SHA1: 26cadbbb9b125b3d46120abd80f9c3a3ac7dc0f6
-SHA256: 13a108dd4cdf58f2de68821a335bd0a6084400ad0800115c2bba48d3539787e6
-Description: OmniPRO configuration for Duet3MH6XD
-
-Package: omnipro-update-program
-Version: 1.0
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omniproupdate_1.0-1_arm64.deb
-Size: 7199804
-MD5sum: ce63cd6389408074302b85a642f7c467
-SHA1: e2a226f2b31f1117e8277572c2484126d9d24ad7
-SHA256: 23d19e3be312c7315930ee115019191bbcef5f9dc500831aa236660fd5d0cd2c
-Description: A program to update software for omnipro 3d printer
-
-Package: owc
-Version: 1.0
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./owc_1.0-1_arm64.deb
-Size: 25047902
-MD5sum: b5770092065fe8ad3ff3f11e4272fd9e
-SHA1: e1affb7625b29fd58c4c68b3d6284e2802db9ac3
-SHA256: 92b9a3190850b8f8063d2c94d08062c99a3af4608a743b2bb1af81dd3ba91597
-Description: Web control interface for omni3d printers
 

@@ -20,6 +20,17 @@ SHA1: 24d4261eaf6f8ecb816e0bfdb73f21da1f864773
 SHA256: 7ce42a287cffb608998748fe65f105f5ff195701bee71125f8553d0d7cd40e2c
 Description: A program to interface rfid reader to 3d printer.
 
+Package: omni3d-rfid-middleware
+Version: 1.2
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./rfid_middleware_1.1-1_amd64.deb
+Size: 12774982
+MD5sum: 97b6cb4220ed91c2d4f1d0dfbcd18ca4
+SHA1: f73b8b247f0004b428fa6c7efc3a06ebbc8863bb
+SHA256: 10e2f7471c905fda8da5ae03c2b52b3038c3704c25ca30e68e476add3fc4a176
+Description: A program to interface rfid reader to 3d printer.
+
 Package: omni3d-timelapse
 Version: 1.1
 Architecture: arm64

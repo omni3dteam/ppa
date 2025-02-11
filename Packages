@@ -9,6 +9,28 @@ SHA1: 5fe3dfb0013ae1d7795c7b5a568aabec1d9d278c
 SHA256: 481fa4109c14766515c692cb89bab531176f51df88970eac008662a0b145ed79
 Description: OmniPRO configuration for Duet3MH6XD
 
+Package: omnipro-update-program
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omniproupdate_1.0-1_arm64.deb
+Size: 7199804
+MD5sum: ce63cd6389408074302b85a642f7c467
+SHA1: e2a226f2b31f1117e8277572c2484126d9d24ad7
+SHA256: 23d19e3be312c7315930ee115019191bbcef5f9dc500831aa236660fd5d0cd2c
+Description: A program to update software for omnipro 3d printer
+
+Package: omnode
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omnode_1.0-1_arm64.deb
+Size: 14788
+MD5sum: 0f2b1ae4d14882c82b305fa479dc744f
+SHA1: 3fdfc557e5b61f437cb3309664ea55451bf53bca
+SHA256: ab92cdcaa78e619e3c46f47a7d3045c6e1d6c99e09cbbdc77de53a4768009a42
+Description: Python library used to create node-style programs for OmniPro
+
 Package: owc
 Version: 1.0
 Architecture: arm64
@@ -19,4 +41,26 @@ MD5sum: b5770092065fe8ad3ff3f11e4272fd9e
 SHA1: e1affb7625b29fd58c4c68b3d6284e2802db9ac3
 SHA256: 92b9a3190850b8f8063d2c94d08062c99a3af4608a743b2bb1af81dd3ba91597
 Description: Web control interface for omni3d printers
+
+Package: rfid-middleware
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./rfid_middleware_1.2-1_arm64.deb
+Size: 11752376
+MD5sum: f6aaa8545305d740df57ac41bcebf663
+SHA1: fdacabd9bc30a74ceb8454b74561219a8cca5e68
+SHA256: 110341cefac77c6683ba75dac92f1b37f1f93028dcd41e085c3797929d869122
+Description: A program to interface rfid reader to 3d printer.
+
+Package: timelapse
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./timelapse_1.0-1_arm64.deb
+Size: 49918212
+MD5sum: 184a6d8eb73abc14461e5ef1b40e8b27
+SHA1: 5473c0e64257a7943b5754fc16b19fa944aaf376
+SHA256: 75836e626e896901f949a85e6fb0989b166869bf9e8fef11a58231801d5b0391
+Description: A program to automatically create timelapse videos of print jobs
 

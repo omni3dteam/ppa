@@ -25,10 +25,10 @@ Version: 1.1
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnode_1.0-1_arm64.deb
-Size: 6788
-MD5sum: 7d6307ca15c70e9edb0c8f74f324cb88
-SHA1: 620244859b52ac139147bf0062a52d3abf490cde
-SHA256: b5962ed8c103f9f965e92104e45dfa12eb18d0d5b0ae14b61686254903e05118
+Size: 6508
+MD5sum: 8d82fe812ef655c5e68359ab1023a892
+SHA1: 7e48901e639bd1c9deb5fbffb61f9a0eb4e711b3
+SHA256: c21b6354fd9d2ae08b5307a8c58b6eca4d4318521f2135ec460e4074f3809a85
 Description: Python library used to create node-style programs for OmniPro
 
 Package: omni3d-omnode

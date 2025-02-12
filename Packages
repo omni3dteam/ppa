@@ -14,10 +14,10 @@ Version: 3.4.6-3
 Architecture: all
 Maintainer: Omni3D <service@omni3d.net>
 Filename: ./omniwebcontrol_3.4.6-3_all.deb
-Size: 10839450
-MD5sum: 9d2036c1baf256e2048303cc55d275e4
-SHA1: 5fc028c62ffc7adae83077eaf615bd5fc814e4b3
-SHA256: cf3f6fb1ab1c40371a225e3ef0fed6a9c78015eaf439e2113f4f611b5617a950
+Size: 10839064
+MD5sum: d00a02ceb08cf334a36e36a21bec5eb6
+SHA1: f75986125916a81dd7092aa9f5db03d80cc296ba
+SHA256: bfee49f29a4937881c032e4d4bffb2a0c062ac9a63bade626d47d55f4bd9e15b
 Description: Omni Web Control (Based on Duet Web Control)
 
 Package: omni3d-omnode
@@ -47,10 +47,10 @@ Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./rfid_middleware_1.1-1_arm64.deb
-Size: 32151590
-MD5sum: 4790a0aeb229377ab9142e730000112b
-SHA1: 563d1f41a648787bd383777335739533c7cb2593
-SHA256: 25965d16a74c5b2ff01838f9cee1633b8acf9de8cc2f68df6f79f4841d2312fb
+Size: 32147624
+MD5sum: 5c48f3b686fb6949d02832e2450718d2
+SHA1: 5d32c15548bdddc7c68c97da607f161c5c07b29f
+SHA256: 6d62d0cc03adf42bd73d55484b7735209d237a224aae07f565349ff49938882f
 Description: A program to interface rfid reader to 3d printer.
 
 Package: omni3d-timelapse

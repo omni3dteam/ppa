@@ -1,12 +1,45 @@
+Package: OmniPROconfig
+Version: 1.1
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omnipro_cfg_1.4-1_arm64.deb
+Size: 37304
+MD5sum: b31c0713a67e2f836bbd658e39662dc8
+SHA1: 962c91eaf01283993ae590dc47441698058bbaa4
+SHA256: 3436f8d06bc27cd25cda1c9bcfa16850dcbed483cb53c95b5573df50351ede23
+Description: OmniPRO configuration for Duet3MH6XD
+
+Package: duetwebcontrol
+Version: 3.4.6-3
+Architecture: all
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./omniwebcontrol_3.4.6-3_all.deb
+Size: 10839450
+MD5sum: 9d2036c1baf256e2048303cc55d275e4
+SHA1: 5fc028c62ffc7adae83077eaf615bd5fc814e4b3
+SHA256: cf3f6fb1ab1c40371a225e3ef0fed6a9c78015eaf439e2113f4f611b5617a950
+Description: Omni Web Control (Based on Duet Web Control)
+
+Package: omni3d-omnode
+Version: 1.0
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omnode_1.0-1_arm64.deb
+Size: 982
+MD5sum: 733314cefd28a8720bfe62d4f0698914
+SHA1: 82b7847762fec8217735a19b1f3e6d9222347893
+SHA256: 10a2148f12dbc0c897675cbe51ce70f495f3f5519f0202785ffdae18c8a91151
+Description: Python library used to create node-style programs for OmniPro
+
 Package: omni3d-rfid-middleware
 Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./rfid_middleware_1.1-1_arm64.deb
-Size: 32151864
-MD5sum: 7b31d61e64152444f5aec5cb6ed16ece
-SHA1: cc82542f228e5fc6018252544a2efbaf23389bec
-SHA256: bdadf2b77d583289a133873b28f986a676496e7035e07596cdd46d16fd23896e
+Size: 32151590
+MD5sum: 4790a0aeb229377ab9142e730000112b
+SHA1: 563d1f41a648787bd383777335739533c7cb2593
+SHA256: 25965d16a74c5b2ff01838f9cee1633b8acf9de8cc2f68df6f79f4841d2312fb
 Description: A program to interface rfid reader to 3d printer.
 
 Package: omni3d-timelapse
@@ -19,4 +52,15 @@ MD5sum: 0146404a43f1933c51873cc764263814
 SHA1: 6c4542e5ce68f3e4687af7c4f628ed4f69cf05ea
 SHA256: 5b5ca944db0e7b5e5f44d95443c72c4b15103f846bf86b88690cbd9bc1d6b495
 Description: A program to automatically create timelapse videos of print jobs
+
+Package: update
+Version: 1.0
+Architecture: arm64
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./update_1.0-1_arm64.deb
+Size: 5346034
+MD5sum: c2122c9a6603bdbcf705b0a394c80bf0
+SHA1: ac237dbcdb69a308d3d0bbc27af7fbba746436b1
+SHA256: 9fb7bc59580360646ed5abf60815bd46bad740388acd32485ab7e1ec1f2f6bb9
+Description: Omni PRO update service
 

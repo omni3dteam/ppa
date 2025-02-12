@@ -3,22 +3,11 @@ Version: 1.1
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnipro_cfg_1.4-1_arm64.deb
-Size: 37304
-MD5sum: b31c0713a67e2f836bbd658e39662dc8
-SHA1: 962c91eaf01283993ae590dc47441698058bbaa4
-SHA256: 3436f8d06bc27cd25cda1c9bcfa16850dcbed483cb53c95b5573df50351ede23
+Size: 36982
+MD5sum: 6a2192bb163b150f057361b521d4b524
+SHA1: 52e741e2eac0894522fdb072ef3892e884fb305b
+SHA256: 5732156849a4dea16c0295ab1dc87c8aec0c0baa43ca52614ae26dd216dd90eb
 Description: OmniPRO configuration for Duet3MH6XD
-
-Package: duetwebcontrol
-Version: 3.4.6-3
-Architecture: all
-Maintainer: Omni3D <service@omni3d.net>
-Filename: ./omniwebcontrol_3.4.6-3_all.deb
-Size: 10839064
-MD5sum: d00a02ceb08cf334a36e36a21bec5eb6
-SHA1: f75986125916a81dd7092aa9f5db03d80cc296ba
-SHA256: bfee49f29a4937881c032e4d4bffb2a0c062ac9a63bade626d47d55f4bd9e15b
-Description: Omni Web Control (Based on Duet Web Control)
 
 Package: omni3d-omnode
 Version: 1.1
@@ -41,6 +30,17 @@ MD5sum: 7d6307ca15c70e9edb0c8f74f324cb88
 SHA1: 620244859b52ac139147bf0062a52d3abf490cde
 SHA256: b5962ed8c103f9f965e92104e45dfa12eb18d0d5b0ae14b61686254903e05118
 Description: Python library used to create node-style programs for OmniPro
+
+Package: omni3d-owc
+Version: 3.4.6-3
+Architecture: all
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./omniwebcontrol_3.4.6-3_all.deb
+Size: 10839102
+MD5sum: d04d920ddbffb68040e4f21912feda9d
+SHA1: 4a055556b05862c89f6b9b2a05d3230c74fada3e
+SHA256: 8684828a67f68ca4f44d6e5d6503d0a5f3603bdc609ac01f03b838036bec3806
+Description: Omni Web Control (Based on Duet Web Control)
 
 Package: omni3d-rfid-middleware
 Version: 1.3

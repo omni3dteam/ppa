@@ -31,6 +31,17 @@ SHA1: 620244859b52ac139147bf0062a52d3abf490cde
 SHA256: b5962ed8c103f9f965e92104e45dfa12eb18d0d5b0ae14b61686254903e05118
 Description: Python library used to create node-style programs for OmniPro
 
+Package: omni3d-omnode
+Version: 1.1
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omnode_1.1-1_arm64.deb
+Size: 6788
+MD5sum: 7d6307ca15c70e9edb0c8f74f324cb88
+SHA1: 620244859b52ac139147bf0062a52d3abf490cde
+SHA256: b5962ed8c103f9f965e92104e45dfa12eb18d0d5b0ae14b61686254903e05118
+Description: Python library used to create node-style programs for OmniPro
+
 Package: omni3d-rfid-middleware
 Version: 1.2
 Architecture: arm64

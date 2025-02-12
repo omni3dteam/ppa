@@ -25,10 +25,10 @@ Version: 1.0
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnode_1.0-1_arm64.deb
-Size: 982
-MD5sum: 733314cefd28a8720bfe62d4f0698914
-SHA1: 82b7847762fec8217735a19b1f3e6d9222347893
-SHA256: 10a2148f12dbc0c897675cbe51ce70f495f3f5519f0202785ffdae18c8a91151
+Size: 8326
+MD5sum: 994b9b0d12139893dc6e627275effc84
+SHA1: c43b9ccb521ceb826abb3da871e26dce4090c786
+SHA256: 44a97ab74af18cae5e510b4484afa0f3a9b61aa2e5178ca97a18a2d1d3c28bbb
 Description: Python library used to create node-style programs for OmniPro
 
 Package: omni3d-rfid-middleware

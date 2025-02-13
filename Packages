@@ -1,3 +1,14 @@
+Package: duetwebcontrol
+Version: 3.7
+Architecture: all
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./omniwebcontrol_3.7-1_all.deb
+Size: 10839266
+MD5sum: 2b1385895632208fe10f10cc558d94ca
+SHA1: 6075602c3c7c5b5fa531a873f53bcb6d32a58194
+SHA256: ac59709cdea9857c54430fe805704d5b68369164f1a4c289b826aa8a64757eed
+Description: Omni Web Control (Based on Duet Web Control)
+
 Package: omni3d-omnode
 Version: 1.1
 Architecture: arm64

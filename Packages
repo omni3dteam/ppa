@@ -9,6 +9,21 @@ SHA1: 6075602c3c7c5b5fa531a873f53bcb6d32a58194
 SHA256: ac59709cdea9857c54430fe805704d5b68369164f1a4c289b826aa8a64757eed
 Description: Omni Web Control (Based on Duet Web Control)
 
+Package: duetwebcontrol-omni
+Version: 3.6.0~beta.4
+Architecture: all
+Maintainer: Omni3D <service@omni3d.net>
+Conflicts: duetwebcontrol
+Breaks: duetwebcontrol
+Replaces: duetwebcontrol
+Provides: duetwebcontrol-omni
+Filename: ./omniwebcontrol_3.6.1~beta.4_all.deb
+Size: 10838656
+MD5sum: d8e3e860940b2ffde4fd31fdca9e2249
+SHA1: 8c362698e2b51349bf37b63f7dd56b09aa605a40
+SHA256: 1f02f4b992b25cb5702daf7e096700aba22d96b23361387964abe5d3b0f97a8c
+Description: Omni Web Control (Based on Duet Web Control)
+
 Package: omni3d-omnode
 Version: 1.1
 Architecture: arm64

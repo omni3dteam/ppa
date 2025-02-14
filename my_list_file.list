@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://omni3dteam.github.io/ppa ./
+deb [signed-by=/etc/apt/trusted.gpg.d/ppa.gpg] https://omni3dteam.github.io/ppa ./

@@ -42,6 +42,17 @@ SHA1: 06498c30e0a61c779db9d880ef46bc8cde483154
 SHA256: c3b7f89f975926ce367eebb27822b905010634eee6a7a46debb1c6cb595e21a2
 Description: A program to automatically create timelapse videos of print jobs
 
+Package: omni3d-update
+Version: 1.0
+Architecture: arm64
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./update_1.0-1_arm64.deb
+Size: 6952452
+MD5sum: cf57bc50845b642e690f3e907c933c32
+SHA1: c2f4741bfb3bcfcba403d65c04967278c6122f6e
+SHA256: 054093559cbf11a6c22a88148575ea570cbdddc5147eb25c7f9292cccf8f224f
+Description: Omni PRO update service
+
 Package: omnipro-config
 Version: 1.1
 Architecture: arm64
@@ -52,15 +63,4 @@ MD5sum: 3de58cf92fe02d9c8bfbae2c6002dce9
 SHA1: 80d6c48d6ccc3c8b033f11b6b255c9f6d027a38c
 SHA256: e1a059a6caf9e39d0c121c26079e6c74d3606d82e7f594feb59fc4f9c06481b5
 Description: OmniPRO configuration for Duet3MH6XD
-
-Package: update
-Version: 1.0
-Architecture: arm64
-Maintainer: Omni3D <service@omni3d.net>
-Filename: ./update_1.0-1_arm64.deb
-Size: 6954228
-MD5sum: 372114e455083c85de6c510ef997a713
-SHA1: 17850197acfea2e4e86441324e34a614e65a4bee
-SHA256: f31d8ac357849234843e2406194e291217acf915d5276c7180f224a0a52cb58b
-Description: Omni PRO update service
 

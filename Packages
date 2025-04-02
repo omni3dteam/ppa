@@ -69,9 +69,9 @@ Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnipro_cfg_3.6.0-1.0_arm64.deb
-Size: 226836
-MD5sum: 76081a8cdbe57149fa31abfd65a86d7b
-SHA1: 9a24ac294282fe524ced873ac0533e7588c2756e
-SHA256: 206d8c2275326f1d7ace9c650deec5aad123d5eb6a5750b971126dd5917b4970
+Size: 226512
+MD5sum: 80872b2d55aef3fb81f2058137d6401d
+SHA1: a4cdd1bdd92b65110ae6bc051c25c227934df1db
+SHA256: 9454c15beb97e53167ded9cca0c8113a2931cb9e383d5b68a323f724ab57d0a8
 Description: OmniPRO configuration for Duet3MH6XD
 

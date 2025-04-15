@@ -54,14 +54,14 @@ SHA256: dee3b41d5e914f68d97c43db445c00b191ef3e617d78464a7dbd829a224440ba
 Description: A program to automatically create timelapse videos of print jobs
 
 Package: omni3d-update
-Version: 1.0
+Version: 1.3
 Architecture: arm64
 Maintainer: Omni3D <service@omni3d.net>
 Filename: ./update_3.6.0-1.0_arm64.deb
-Size: 6954072
-MD5sum: 34036c1394374888e61db419b51ab5d0
-SHA1: c325dabd7cea1c705c16242aa2b4eedc7a37075b
-SHA256: d6f7b7a4861ed637ffefc677e0e87afd18a2cfb84bbfed26f7bd2ffc18f64f22
+Size: 14370536
+MD5sum: d0e21e815d19e2ab0032ff6523880db4
+SHA1: 27eb84ba572dff427605124476c7509550b9696b
+SHA256: dbdfbe051c0140d3c026fb62a496cc016f41ebd59ad730da81f649436dd757b2
 Description: Omni PRO update service
 
 Package: omnipro-config

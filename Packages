@@ -32,14 +32,14 @@ SHA256: 696d5dda59521ea2f2a18ce8dbe31ad701436c75b6fe76cd87cb8b5b97d0a6f0
 Description: A program to interface rfid reader to 3d printer.
 
 Package: omni3d-rrf
-Version: 1.0
+Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <awa@omni3d.net>
 Filename: ./omnirrf_3.6.0-1.0_arm64.deb
-Size: 524948
-MD5sum: fe3e2fc9173bc61961a5f1a4e73dff9f
-SHA1: cf1425f08ab54e40e2acffeae387887806c0ccdc
-SHA256: e8041364524514057fdf7c0eccbbb667252b9ae781f66912a944efacb188c693
+Size: 577914
+MD5sum: 33cc1100bdac4b4799ec63aba7d7e8d1
+SHA1: 67c5b12827b8c2b711a68d410ff78ef609a99310
+SHA256: 6ed541c695946a4b93afe1ca23b9737400d22417abecff2f70fdde57141ceaee
 Description: Duet3 mainboard and satellites firmware.
 
 Package: omni3d-timelapse

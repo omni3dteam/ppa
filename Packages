@@ -65,13 +65,13 @@ SHA256: 30710c05a63377c2328fd2b852cbfd685e5984029665bce93579eb270294e8b7
 Description: Omni PRO update service
 
 Package: omnipro-config
-Version: 1.5
+Version: 1.6
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnipro_cfg_3.6.0-1.0_arm64.deb
-Size: 7392748
-MD5sum: 3fa1930330f74b4ec7132c3e7eff78e0
-SHA1: 7f9e1e66fe5391610b4db64336c312bad3592902
-SHA256: c1798f43a545416fc662394a40a5ad4a769c651797e0580b2f608929fcc4d82d
+Size: 7393708
+MD5sum: 1c2d8c3c5d58f1a8f75117e2c71022e1
+SHA1: 86b204640f123978ab1a47f5ff2c58261f0e0c4c
+SHA256: b783c85d4cef1093b52147744b27654af4ffedbac741467ccd9c925b249de474
 Description: OmniPRO configuration for Duet3MH6XD
 

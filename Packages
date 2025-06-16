@@ -36,10 +36,10 @@ Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <awa@omni3d.net>
 Filename: ./omnirrf_3.6.0-1.0_arm64.deb
-Size: 527076
-MD5sum: c1c9295f514d723db76e1c429c1fd485
-SHA1: fc343d8126fb1ec929060e5797f551293ccdce37
-SHA256: 729dc7a394d3a01b1f0f6fda086885ef49d88d7a7c0706c5532013e0df9bac9d
+Size: 527612
+MD5sum: ca9eaf92cbafc5249baa372d2fc0d8b9
+SHA1: d72fd0205835080745208044caa0623151a662e9
+SHA256: 12e85df9d688847a2e86deddf126b6b5e306e93466edb0343b6ef383702a9c95
 Description: Duet3 mainboard and satellites firmware.
 
 Package: omni3d-timelapse
@@ -65,13 +65,13 @@ SHA256: 30710c05a63377c2328fd2b852cbfd685e5984029665bce93579eb270294e8b7
 Description: Omni PRO update service
 
 Package: omnipro-config
-Version: 1.4
+Version: 1.5
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./omnipro_cfg_3.6.0-1.0_arm64.deb
-Size: 628864
-MD5sum: 80c9c1095fa1e1c91d351d729803a79d
-SHA1: 578df40cf237d9aa4979c12906e0c149969d722e
-SHA256: 67ec790e89c2741e45c0e295697d6fe51a49945347c4f7855d7366ba8316d105
+Size: 7392748
+MD5sum: 3fa1930330f74b4ec7132c3e7eff78e0
+SHA1: 7f9e1e66fe5391610b4db64336c312bad3592902
+SHA256: c1798f43a545416fc662394a40a5ad4a769c651797e0580b2f608929fcc4d82d
 Description: OmniPRO configuration for Duet3MH6XD
 

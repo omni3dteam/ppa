@@ -47,10 +47,10 @@ Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
 Filename: ./timelapse_3.6.0-1.0_arm64.deb
-Size: 43726124
-MD5sum: ffb07eadebbfde0f770df687572ef1fa
-SHA1: e26dd9feee355639de15358c02619e448c7986e3
-SHA256: 0e29dac32f03b51eb641065fb0cc6e36eee00887ad26eec629b1c96bd9dd3a9f
+Size: 48802528
+MD5sum: bcfd7459d8756dccc8c2fdbe7d2b02ca
+SHA1: f1e5d10bb071e43d9bcbfc9296ad9e8f56c12754
+SHA256: 9a5d41aef26f30f9395da5eeab4fc4b3ded4c80858bd74ff3a71de979e7511e5
 Description: A program to automatically create timelapse videos of print jobs
 
 Package: omni3d-update

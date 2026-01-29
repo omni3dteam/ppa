@@ -20,17 +20,6 @@ SHA1: da1d314677d83f937027ad48616109dcbb3cc032
 SHA256: 4208dfd9b061abc9ce6c55b3245cacddf34fe2c34fc69068b23c6f0f7c686ba2
 Description: Omni Web Control (Based on Duet Web Control)
 
-Package: omni3d-owc
-Version: 1.3
-Architecture: all
-Maintainer: Omni3D <service@omni3d.net>
-Filename: ./owc_3.4.6-1.0_arm64 copy.deb
-Size: 10743568
-MD5sum: fe8b9dcbc57c9766901fd215c80a6ac3
-SHA1: 9c0c4fdc3c3af996ef7fbce64371e43abacd5e74
-SHA256: 6c1766dc7cc498523de83f9dee6807708489ed15c93326c5bbed22831f0be593
-Description: Omni Web Control (Based on Duet Web Control)
-
 Package: omni3d-rfid-middleware
 Version: 1.0
 Architecture: arm64

@@ -13,7 +13,7 @@ Package: omni3d-rfid-middleware
 Version: 1.0
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./rfid_middleware_3.6.0-1.0_arm64.deb
+Filename: ./rfid_middleware_3.6.0-1.1_arm64.deb
 Size: 26629756
 MD5sum: 6a7afcd83599c38cebd91678e3144b58
 SHA1: e732a2eccbd92394ac6c1caafe475ea0e1f526cb

@@ -2,7 +2,7 @@ Package: omni3d-omnode
 Version: 1.1
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omnode_3.6.0-1.0_arm64.deb
+Filename: ./omnode_3.6.0-1.1_arm64.deb
 Size: 6748
 MD5sum: 0756f48d69f935f07ad413089d542111
 SHA1: 23c205a25c4c7c53a5fa0b7e79f11f2345c576f7
@@ -24,7 +24,7 @@ Package: omni3d-rrf
 Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <awa@omni3d.net>
-Filename: ./omnirrf_3.6.0-1.0_arm64.deb
+Filename: ./omnirrf_3.6.0-1.1_arm64.deb
 Size: 527612
 MD5sum: ca9eaf92cbafc5249baa372d2fc0d8b9
 SHA1: d72fd0205835080745208044caa0623151a662e9
@@ -35,7 +35,7 @@ Package: omni3d-timelapse
 Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./timelapse_3.6.0-1.0_arm64.deb
+Filename: ./timelapse_3.6.0-1.1_arm64.deb
 Size: 48802528
 MD5sum: bcfd7459d8756dccc8c2fdbe7d2b02ca
 SHA1: f1e5d10bb071e43d9bcbfc9296ad9e8f56c12754
@@ -46,7 +46,7 @@ Package: omni3d-update
 Version: 1.4
 Architecture: arm64
 Maintainer: Omni3D <service@omni3d.net>
-Filename: ./update_3.6.0-1.0_arm64.deb
+Filename: ./update_3.6.0-1.1_arm64.deb
 Size: 12712024
 MD5sum: 6523965200f7911656926d3a710d18b9
 SHA1: 2bbb84589bb5823fea930d5335cdfd00d44d0a14
@@ -57,7 +57,7 @@ Package: omnipro-config
 Version: 1.6
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omnipro_cfg_3.6.0-1.0_arm64.deb
+Filename: ./omnipro_cfg_3.6.0-1.1_arm64.deb
 Size: 9183192
 MD5sum: 61e408dfe4d96f04e5c784a7991a9fea
 SHA1: e552ea21fba49c202b501f9e77bfe96ded8ae4f7
@@ -68,7 +68,7 @@ Package: omnitech-config
 Version: 1.2
 Architecture: arm64
 Maintainer: Adam Wasilewski <awa@omni3d.net>
-Filename: ./omnitech_cfg_3.6.0-1.2_arm64.deb
+Filename: ./omnitech_cfg_3.6.0-1.3_arm64.deb
 Size: 113188
 MD5sum: 85b12efca151ba4eb9048cfd4eaf9924
 SHA1: 28c834a306c418ee08a14d4166a32dbb3e7c6f6d

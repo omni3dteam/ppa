@@ -53,17 +53,6 @@ SHA1: f1e5d10bb071e43d9bcbfc9296ad9e8f56c12754
 SHA256: 9a5d41aef26f30f9395da5eeab4fc4b3ded4c80858bd74ff3a71de979e7511e5
 Description: A program to automatically create timelapse videos of print jobs
 
-Package: omni3d-ui
-Version: 1.5
-Architecture: arm64
-Maintainer: Omni3D <service@omni3d.net>
-Filename: ./ui_1.5_arm64.deb
-Size: 182097232
-MD5sum: c1f1f19bb3dc0e7e51f1c59d00105efb
-SHA1: f49f099ce80e578550c9fa9cf08ae947f4224170
-SHA256: 60ebbb29331c917da176fa46743efc1b5499c6e94aab37f055ab9b7eba4824d6
-Description: Omni PRO user interface
-
 Package: omni3d-update
 Version: 1.4
 Architecture: arm64

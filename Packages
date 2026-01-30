@@ -58,7 +58,7 @@ Package: omni3d-ui
 Version: 1.5
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.5/ui_1.5_arm64.deb
+Filename: https://github.com/omni3dteam/ppa/releases/download/v1.5/ui_1.5_arm64.deb
 Size: 182097232
 SHA256: 60ebbb29331c917da176fa46743efc1b5499c6e94aab37f055ab9b7eba4824d6
 

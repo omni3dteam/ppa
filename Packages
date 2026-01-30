@@ -9,6 +9,17 @@ SHA1: 23c205a25c4c7c53a5fa0b7e79f11f2345c576f7
 SHA256: 31dfa1f068d177987dd78d519aa512c66a47fab40886794d9ad6002f00d9bed5
 Description: Python library used to create node-style programs for OmniPro
 
+Package: omni3d-owc
+Version: 1.4
+Architecture: all
+Maintainer: Omni3D <service@omni3d.net>
+Filename: ./owc_3.4.6-1.0_arm64.deb
+Size: 10734336
+MD5sum: b599f7ded78e3936075af635de649c5c
+SHA1: 001a5b33a36c0997ddb7328997db228decc25684
+SHA256: 807b2a2291019e395aa33603fd74e739e4c38245a454bd8a3c6d185a85afae6a
+Description: Omni Web Control (Based on Duet Web Control)
+
 Package: omni3d-rfid-middleware
 Version: 1.0
 Architecture: arm64

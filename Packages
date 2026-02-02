@@ -2,7 +2,7 @@ Package: omnipro-config
 Version: 1.6
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/omnipro_cfg_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/omnipro_cfg_3.6.0-1.1_arm64.deb
 Size: 9183192
 SHA256: 9ccaa8a48518f89cc65ca7a8f32e1edaaba72b703bb180a78e62291976421f83
 
@@ -10,7 +10,7 @@ Package: omni3d-rrf
 Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/omnirrf_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/omnirrf_3.6.0-1.1_arm64.deb
 Size: 527612
 SHA256: 12e85df9d688847a2e86deddf126b6b5e306e93466edb0343b6ef383702a9c95
 
@@ -18,7 +18,7 @@ Package: omnitech-config
 Version: 1.2
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/omnitech_cfg_3.6.0-1.3_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/omnitech_cfg_3.6.0-1.3_arm64.deb
 Size: 113188
 SHA256: 991aed44edf709de98b9e6d622c92034805bd3f95502c6719a8ba323ff2967a2
 
@@ -26,7 +26,7 @@ Package: omni3d-omnode
 Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/omnode_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/omnode_3.6.0-1.1_arm64.deb
 Size: 6748
 SHA256: 31dfa1f068d177987dd78d519aa512c66a47fab40886794d9ad6002f00d9bed5
 
@@ -34,7 +34,7 @@ Package: omni3d-owc
 Version: 1.4
 Architecture: all
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/owc_3.4.6-1.0_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/owc_3.4.6-1.0_arm64.deb
 Size: 10734336
 SHA256: 807b2a2291019e395aa33603fd74e739e4c38245a454bd8a3c6d185a85afae6a
 
@@ -42,7 +42,7 @@ Package: omni3d-rfid-middleware
 Version: 1.0
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/rfid_middleware_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/rfid_middleware_3.6.0-1.1_arm64.deb
 Size: 26629756
 SHA256: 696d5dda59521ea2f2a18ce8dbe31ad701436c75b6fe76cd87cb8b5b97d0a6f0
 
@@ -50,7 +50,7 @@ Package: omni3d-timelapse
 Version: 1.2
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/timelapse_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/timelapse_3.6.0-1.1_arm64.deb
 Size: 48802528
 SHA256: 9a5d41aef26f30f9395da5eeab4fc4b3ded4c80858bd74ff3a71de979e7511e5
 
@@ -58,7 +58,7 @@ Package: omni3d-ui
 Version: 1.5
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/ui_1.5_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/ui_1.5_arm64.deb
 Size: 182097232
 SHA256: 60ebbb29331c917da176fa46743efc1b5499c6e94aab37f055ab9b7eba4824d6
 
@@ -66,7 +66,7 @@ Package: omni3d-update
 Version: 1.4
 Architecture: arm64
 Maintainer: Omni3D <support@omni3d.com>
-Filename: https://github.com/Omni3dteam/ppa/releases/download/v1.6/update_3.6.0-1.1_arm64.deb
+Filename: https://github.com/Omni3dteam/ppa/releases/download/stable/update_3.6.0-1.1_arm64.deb
 Size: 12712024
 SHA256: 30710c05a63377c2328fd2b852cbfd685e5984029665bce93579eb270294e8b7
 

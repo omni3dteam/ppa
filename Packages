@@ -75,6 +75,17 @@ SHA1: e552ea21fba49c202b501f9e77bfe96ded8ae4f7
 SHA256: 9ccaa8a48518f89cc65ca7a8f32e1edaaba72b703bb180a78e62291976421f83
 Description: OmniPRO configuration for Duet3MH6XD
 
+Package: omnipro-config
+Version: 1.8
+Architecture: arm64
+Maintainer: Adam Wasilewski <awa@omni3d.net>
+Filename: ./omni_pro_config_3.6.0.deb
+Size: 221860
+MD5sum: de55845e6551594f4fd3730b08e07621
+SHA1: f9bada4d63c511d440c77c5af620870f42bf49c5
+SHA256: 6991a870df68f4f5df175dfba871f86b4b4dbeeafd78af9871d85d16a42abbfe
+Description: OmniPRO configuration for Duet3MH6XD
+
 Package: omnitech-config
 Version: 1.2
 Architecture: arm64
